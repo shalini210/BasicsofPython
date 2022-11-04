@@ -1,7 +1,7 @@
 #1
 # n=input("Enter your name")
 # print("welcome"+n);
-
+hello 
 #2
 a = input("Enter first no ")
 b=input("Enter second no ")
